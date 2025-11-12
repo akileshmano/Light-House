@@ -1,4 +1,19 @@
-## Step 1 — Nmap enumeration
-![Nmap scan](<img width="1920" height="909" alt="Nmap" src="https://github.com/user-attachments/assets/ae85a879-cef8-40e0-bb8a-65e3bb09df06" />)
+# SpiderMan CTF — Screenshots
+
+## Step 1 — Nmap
+![Nmap scan](images/step1_nmap.png)
+
+## Step 2 — FTP
+![FTP access](images/step2_ftp.png)
+
+## Step 3 — VeraCrypt / page
+![VeraCrypt hint/page](images/step3_veracrypt.png)
+
+## Step 4 — random.txt
+![random.txt container](images/step4_randomtxt.png)
+
+## Step 5 — Privilege escalation
+![Privilege escalation](images/step5_priv_esc.png)
+
 
 
